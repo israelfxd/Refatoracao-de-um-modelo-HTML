@@ -73,6 +73,10 @@ body {
    align-content: center;
    justify-items: end;
  }
+
+ .introducao h1 {
+  font-size:2rem;
+ }
  
  .detalhe {
    width: 60px;
